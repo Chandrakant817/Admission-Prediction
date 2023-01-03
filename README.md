@@ -1,6 +1,8 @@
 # Admission-Prediction
 
 ## Admission Prediction using Machine Learning 
+<!------------------------------------------------------------------------------------------------------------------------------>
+### Based on Students data we are able to Predict whether that perticular student is eligible or not for the Admission.
 
 ### 1. Right click and then click on Run app option
 ![image](https://user-images.githubusercontent.com/69152112/210342947-911c88a3-26ed-4177-b2cc-2e2adcd5a271.png)
