@@ -1,5 +1,9 @@
 # Admission-Prediction
 
+#### Programming Language Used: Python
+#### Framework used: Flask
+#### Python Version: 3.7
+
 ## Admission Prediction using Machine Learning 
 <!------------------------------------------------------------------------------------------------------------------------------>
 ### Based on Students data we are able to Predict whether that perticular student is eligible or not for the Admission.
