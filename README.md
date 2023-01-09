@@ -4,7 +4,7 @@
 #### Framework used: Flask
 #### Python Version: 3.7
 
-## Admission Prediction using Machine Learning 
+## Admission Prediction using Machine Learning. (Regression Use Case) 
 <!------------------------------------------------------------------------------------------------------------------------------>
 ### Based on Students data we are able to Predict whether that perticular student is eligible or not for the Admission.
 
