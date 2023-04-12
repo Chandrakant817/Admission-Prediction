@@ -21,6 +21,10 @@
 ![image](https://user-images.githubusercontent.com/69152112/210342728-0edc9410-611a-409c-8b67-ddaec62d43b3.png)
 
 
+# Working Model in Railway Platform url: 
+admission-prediction-production-5c8d.up.railway.app
+
+
 ## Model is deployed over the Railway Application it a free Cloud platform.
 ![image](https://user-images.githubusercontent.com/69152112/231526556-40170ed8-1f04-46fa-bb8e-545d12c3ffd8.png)
 
