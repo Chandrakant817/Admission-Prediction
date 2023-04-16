@@ -28,5 +28,3 @@ admission-prediction-production-5c8d.up.railway.app
 ## Model is deployed over the Railway Application it a free Cloud platform.
 ![image](https://user-images.githubusercontent.com/69152112/231526556-40170ed8-1f04-46fa-bb8e-545d12c3ffd8.png)
 
-## Final output on railway application 
-![image](https://user-images.githubusercontent.com/69152112/231526766-2cf3362c-688d-4c94-a99c-53b14b5bc232.png)
