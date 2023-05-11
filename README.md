@@ -22,7 +22,7 @@
 
 
 # Working Model in Railway Platform url: 
-admission-prediction-production-5c8d.up.railway.app
+> admission-prediction-production-5c8d.up.railway.app
 
 
 ## Model is deployed over the Railway Application it a free Cloud platform.
